@@ -1,1 +1,1 @@
-# Incident_Management_System
+# Incident Management System
